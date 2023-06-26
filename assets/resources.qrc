@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="logos">
+    <file>logo_0.png</file>
+    <file>change.png</file>
+    <file>home.png</file>
+    <file>employee.png</file>
+    <file>hostel.png</file>
+    <file>logout.png</file>
+    <file>student.png</file>
+  </qresource>
+</RCC>
